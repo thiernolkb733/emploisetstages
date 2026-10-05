@@ -1,4 +1,4 @@
-package com.example.emploisetstages.ui.theme
+package com.odc.emploietstage.ui.theme
 
 import android.app.Activity
 import android.os.Build

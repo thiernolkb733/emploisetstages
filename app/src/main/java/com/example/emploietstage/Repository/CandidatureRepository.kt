@@ -1,8 +1,8 @@
-package com.odc.emploisetstage.Repository
+package com.odc.emploietstage.Repository
 
-import com.odc.emploisetstage.Room.CandidatureDao
-import com.odc.emploisetstage.Room.CandidatureEntity
-import com.odc.emploisetstage.Room.StatutCandidature
+import com.odc.emploietstage.Room.CandidatureDao
+import com.odc.emploietstage.Room.CandidatureEntity
+import com.odc.emploietstage.Room.StatutCandidature
 import kotlinx.coroutines.flow.Flow
 
 

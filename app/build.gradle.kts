@@ -5,13 +5,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.emploisetstages"
+    namespace = "com.odc.emploietstage"
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
-        applicationId = "com.example.emploisetstages"
+        applicationId = "com.odc.emploietstage"
         minSdk = 35
         targetSdk = 37
         versionCode = 1

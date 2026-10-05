@@ -1,4 +1,4 @@
-package com.odc.emploisetstage.Room
+package com.odc.emploietstage.Room
 
 import androidx.room.Database
 import androidx.room.RoomDatabase

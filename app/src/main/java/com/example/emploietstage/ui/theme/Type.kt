@@ -1,4 +1,4 @@
-package com.example.emploisetstages.ui.theme
+package com.odc.emploietstage.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
