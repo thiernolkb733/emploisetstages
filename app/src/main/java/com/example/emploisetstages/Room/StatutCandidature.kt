@@ -1,4 +1,4 @@
-package com.odc.emploietstage.Room
+package com.example.emploisetstages.Room
 
 enum class StatutCandidature {
     A_ENVOYER,

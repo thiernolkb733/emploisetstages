@@ -1,7 +1,7 @@
-package com.odc.emploietstage.Repository
+package com.example.emploisetstages.Repository
 
-import com.odc.emploietstage.Room.OffreDao
-import com.odc.emploietstage.Room.OffreEntity
+import com.example.emploisetstages.Room.OffreDao
+import com.example.emploisetstages.Room.OffreEntity
 import kotlinx.coroutines.flow.Flow
 
 

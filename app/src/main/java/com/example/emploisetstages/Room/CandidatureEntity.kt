@@ -1,4 +1,4 @@
-package com.odc.emploietstage.Room
+package com.example.emploisetstages.Room
 
 import androidx.room.Entity
 import androidx.room.ForeignKey

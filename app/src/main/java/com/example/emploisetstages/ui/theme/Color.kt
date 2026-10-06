@@ -1,4 +1,4 @@
-package com.odc.emploietstage.ui.theme
+package com.example.emploisetstages.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

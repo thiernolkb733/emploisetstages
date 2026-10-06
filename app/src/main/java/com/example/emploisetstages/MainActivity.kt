@@ -1,4 +1,4 @@
-package com.odc.emploietstage
+package com.example.emploisetstages
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -11,7 +11,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.odc.emploietstage.ui.theme.EmploisetstagesTheme
+import com.example.emploisetstages.ui.theme.EmploisetstagesTheme
 
 // Test de travail sur ma branche feature/test
 

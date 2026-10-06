@@ -1,4 +1,4 @@
-package com.odc.emploietstage.Room
+package com.example.emploisetstages.Room
 
 import androidx.room.Dao
 import androidx.room.Delete
